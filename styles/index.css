@@ -1,0 +1,38 @@
+* {
+	font-family: 'Poppins', sans-serif;
+}
+#ada-pic {
+	width: 300px;
+	height: auto;
+}
+
+#carouselExampleCaptions {
+	width: 500px;
+	height: auto;
+}
+
+#nav-bar {
+	background-color: #F88379;
+} 
+
+
+.bg-nblue {
+	background-color: #1c2e4a;
+
+}
+
+.bg-peach {
+	background-color: #FFCBA5;
+}
+
+.bg-lnude {
+	background-color: #C4BDAC;
+}
+
+.bg-lgrey {
+	background-color: #E4DAC2;
+}
+
+.bg-dgray {
+	background-color: #999999;
+}
